@@ -1,5 +1,5 @@
-# What's This
-My Live CV
+# Live CV
+- CV
 
 # Section
 - My Education
