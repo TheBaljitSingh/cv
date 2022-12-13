@@ -1,0 +1,33 @@
+      
+        body {
+            background-color: #CBEDD5;
+
+        }
+        a{
+            text-decoration: none;
+        }
+        h1 {
+            color: #439A97;
+        }
+        h3 {
+            color: #439A97;
+        }
+        hr{
+            border-style:none; 
+            border-top-style: dotted;
+            border-color: gray;
+            border-width: 5px;
+            width: 10%;
+
+        }
+
+        img {
+            height: 190px;
+            
+            border-radius: 50%;
+        }
+        a.engineering {
+            text-decoration: none;
+        }
+       
+   
